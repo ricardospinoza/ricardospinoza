@@ -9,4 +9,6 @@ Sou desenvolvedor Java profissional com experiência na área de tecnologia:
 - 👯 Sou parcipante ativo das listas de ajuda da comunidades de desenvolvedores no zap zap ...
 - 😄 Tenho um blog de tecnologia onde compartilho alguns conhecimentos: http://ricardospinoza.wordpress.com
 - ⚡ Como nem tudo é trabalho, gosto de curtir a familia, fazer cerveja artesanal e tocar um violão ...
-- 📫 Quer entrar em contato, e envie um e-mail: ricardospinoza@gmail.com
+- 📫 Quer entrar em contato: 
+        e-mail: ricardospinoza@gmail.com
+        LinkedIn: https://www.linkedin.com/in/ricardospinoza/

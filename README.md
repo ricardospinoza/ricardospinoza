@@ -12,3 +12,5 @@ Sou entusiasta de tecnologia, e adoro desenvolvimento de software, já atuo na �
 - 📫 Quer entrar em contato? segue os canais:
         E-mail: ricardospinoza@gmail.com
         LinkedIn: https://www.linkedin.com/in/ricardospinoza/        
+
+Bons códigos!!!

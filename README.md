@@ -17,4 +17,6 @@ Algum projeto que sustento lhe ajudou? cafezinho para o dev sempre bem vindo �
 
 <a href="https://www.buymeacoffee.com/ricardospinoza"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a whore&emoji=👯‍♀️&slug=RicardoSpinoza&button_colour=980028&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
+BTC tbem é bem vindo. endereço da minha carteira pro café `19K5fMHbQs17VwHbWwJ7UGdJU43mK71uJJ`
+
 Bons códigos!!!

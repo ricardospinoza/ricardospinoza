@@ -10,10 +10,11 @@ Sou entusiasta de tecnologia, e adoro desenvolvimento de software, já atuo na �
 - 😄 Tenho um blog de tecnologia onde compartilho alguns conhecimentos: http://ricardospinoza.wordpress.com
 - ⚡ Como nem tudo é trabalho, gosto de curtir a família, fazer cerveja artesanal e tocar um violão ...
 - 📫 Quer entrar em contato? segue os canais:
-        E-mail: ricardospinoza@gmail.com
-        LinkedIn: https://www.linkedin.com/in/ricardospinoza/        
+  
+   E-mail: ricardospinoza@gmail.com
+   LinkedIn: https://www.linkedin.com/in/ricardospinoza/        
 
-Algum projeto que sustento lhe ajudou? cafezinho para o dev sempre bem vindo 😄👋 
+Algum projeto que sustento lhe ajudou? cafezinho para o dev é sempre bem vindo 😄👋 
 
 <a href="https://www.buymeacoffee.com/ricardospinoza"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a whore&emoji=👯‍♀️&slug=RicardoSpinoza&button_colour=980028&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
